@@ -1,0 +1,23 @@
+{
+  "name": "bch-tech",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "tsc": "tsc",
+    "start": "node dist/main.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Artur Didur <didur.art@gmai.com>",
+  "license": "ISC",
+  "devDependencies": {
+    "@types/node": "^22.5.5",
+    "tsc": "^2.0.4"
+  },
+  "dependencies": {
+    "crypto": "^1.0.1"
+  }
+}
