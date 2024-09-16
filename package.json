@@ -16,8 +16,5 @@
   "devDependencies": {
     "@types/node": "^22.5.5",
     "tsc": "^2.0.4"
-  },
-  "dependencies": {
-    "crypto": "^1.0.1"
   }
 }
